@@ -1,3 +1,5 @@
+<b>[01/05/2024] Note: Development of NLE is now continuing here: <a href="https://github.com/heiner/nle">heiner/nle</a>. This repo is no longer maintained.</b>
+
 ![NetHack Learning Environment (NLE)](https://github.com/facebookresearch/nle/raw/main/dat/nle/logo.png)
 
 --------------------------------------------------------------------------------
